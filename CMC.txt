@@ -1,1 +1,2 @@
 different file
+a new line as requested
